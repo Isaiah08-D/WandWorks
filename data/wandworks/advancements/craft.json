@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "requirements": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "wandworks:summoner",
+        },
+        "item": {
+          "items": [
+            "minecraft:summoner"
+          ]
+        }
+      }
+     },
+
+    "rewards": {
+      "function": "wandworks:craft/wand"
+    }
+  }
+  
+
+ 
