@@ -1,0 +1,1 @@
+scoreboard objectives add used_wand used.minecraft.carrot_on_a_stick
