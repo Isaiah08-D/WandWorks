@@ -1,0 +1,12 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:used_totem",
+        "conditions": {}
+      }
+    },
+    "rewards": {
+      "function": "wandworks:items/give_fragment"
+    }
+  }
+  
