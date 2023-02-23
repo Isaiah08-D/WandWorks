@@ -1,0 +1,1 @@
+execute as @s[nbt={SelectedItem:{id:"minecraft:diamond"}}] run function wandworks:craft/tp_wand

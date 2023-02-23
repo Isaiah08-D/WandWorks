@@ -3,16 +3,11 @@
     "requirements": {
       "trigger": "minecraft:placed_block",
       "conditions": {
-        "block": "wandworks:summoner",
-        },
-        "item": {
-          "items": [
-            "minecraft:summoner"
-          ]
-        }
+        "block": "wandworks:summoner"
+     }
       }
      },
-
+     
     "rewards": {
       "function": "wandworks:craft/wand"
     }
